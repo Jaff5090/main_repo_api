@@ -1,0 +1,6 @@
+[submodule "REST_FILMS"]
+	path = REST_FILMS
+	url = https://github.com/Jaff5090/REST_FILMS
+[submodule "Authentication-API"]
+	path = Authentication-API
+	url = https://github.com/Jaff5090/Authentication-API
