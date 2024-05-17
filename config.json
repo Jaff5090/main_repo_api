@@ -1,0 +1,5 @@
+{
+    "authServiceUrl": "http://localhost:8000",
+    "filmsServiceUrl": "http://localhost:8001"
+  }
+  
